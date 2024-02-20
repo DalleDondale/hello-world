@@ -22,3 +22,4 @@ function addTask(taskText) {
     li.appendChild(deleteBtn);
     taskList.appendChild(li);
 }
+//something to be said
